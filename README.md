@@ -1,4 +1,4 @@
-![to do list new](https://user-images.githubusercontent.com/59205692/134822648-9e816cc5-ae7e-470f-bda3-dad3b8a58a1c.gif)
+
 # ToDoList
 
 A simple To Do List app that allows users to keep track of their tasks.
@@ -14,3 +14,4 @@ A simple To Do List app that allows users to keep track of their tasks.
 • Allows user to view a long list with a scrollable view.
 
 
+![popuptodolist](https://user-images.githubusercontent.com/59205692/136266175-82ebf48f-9e5c-4d2b-9b3e-2780f6143583.gif)
